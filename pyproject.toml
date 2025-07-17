@@ -1,0 +1,10 @@
+[project]
+name = "rinha-backend-2025"
+version = "0.1.0"
+description = "Minha submissão para o Rinha de Backend 2025"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi[all]>=0.116.1",
+    "uvicorn[standard]>=0.35.0",
+]
